@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://strawmedia-567xvptj.manus.space/sitemap.xml
