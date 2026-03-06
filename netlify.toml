@@ -1,10 +1,2 @@
-# Netlify configuration for static HTML site
 [build]
   publish = "."
-  command = ""
-
-# Redirect rules for SPA routing (if needed)
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
